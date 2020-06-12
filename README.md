@@ -1,2 +1,2 @@
-# Creating a Tik-Tac-Toe game using Python
+# Different things built using Python and python packages.
 
