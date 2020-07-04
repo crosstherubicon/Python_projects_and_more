@@ -5,8 +5,7 @@ Sending emails with Python, the steps include conneccting to an email server, co
 
 ## SMTP or Simple Mail Transfer Protocol
 
-<br>
-<p align="center">
+Each major email provider has their own dedicated STMP server. It is a domain name that it connects to when trying to access an email in program. 
   
 |  Provider                | SMTP server domain name  |  
 |--------------------------|--------------------------|
@@ -17,5 +16,3 @@ Sending emails with Python, the steps include conneccting to an email server, co
 |  Verizon                 | smtp.verizon.net (Use port 546)  | 
 |  Comcast                 | smtp.comcast.net                 | 
 
-</p>
-<br>
