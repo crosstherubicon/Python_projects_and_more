@@ -5,8 +5,9 @@ Sending emails with Python, the steps include conneccting to an email server, co
 
 ## SMTP or Simple Mail Transfer Protocol
 
-<center>
-
+<br>
+<p align="center">
+  
 |  Provider                | SMTP server domain name  |  
 |--------------------------|--------------------------|
 |  Gmail                   | smtp.gmail.com           | 
@@ -16,4 +17,5 @@ Sending emails with Python, the steps include conneccting to an email server, co
 |  Verizon                 | smtp.verizon.net (Use port 546)  | 
 |  Comcast                 | smtp.comcast.net                 | 
 
-</center>
+</p>
+<br>
