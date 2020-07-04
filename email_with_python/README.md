@@ -7,6 +7,9 @@ Sending emails with Python, the steps include conneccting to an email server, co
 
 |  Provider  | SMTP server domain name  |  
 |---|---|
-|   |   | 
-|   |   |  
-|   |   |  
+|  Gmail | smtp.gmail.com   | 
+|  Yahoo Mail | smtp.mail.yahoo.com  |  
+| Outlook.com/Hotmail.com  | smtp.mail.outlook.com  |  
+|  AT&T | smtp.mail.att.com   (Use port 546)| 
+|  Verizon | smtp.verizon.net (Use port 546)  | 
+|  Comcast | smtp.comcast.net   | 
