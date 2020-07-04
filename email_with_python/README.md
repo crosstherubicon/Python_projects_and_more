@@ -16,3 +16,5 @@ Each major email provider has their own dedicated STMP server. It is a domain na
 |  Verizon                 | smtp.verizon.net (Use port 546)  | 
 |  Comcast                 | smtp.comcast.net                 | 
 
+
+Link required to visit: https://support.google.com/accounts/answer/185839
