@@ -4,3 +4,9 @@ Sending emails with Python, the steps include conneccting to an email server, co
 
 
 ## SMTP or Simple Mail Transfer Protocol
+
+|  Provider  | SMTP server domain name  |  
+|---|---|
+|   |   | 
+|   |   |  
+|   |   |  
