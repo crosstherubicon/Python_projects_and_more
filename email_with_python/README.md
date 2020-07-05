@@ -27,6 +27,6 @@ Link required to visit: https://support.google.com/accounts/answer/185839
 
 Library used: imaplib and email library 
 
-Connecting python to gmail with appropriate port and once connceted using email library to search for the particular content. 
+Connecting python to gmail with appropriate port and once connceted using email library to search for the particular content. Email library is just the matter of choice any custom code would do the job, better or worse depending on code structure. 
 
 
