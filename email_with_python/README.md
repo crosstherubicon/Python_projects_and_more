@@ -27,6 +27,6 @@ Link required to visit: https://support.google.com/accounts/answer/185839
 
 Library used: imaplib and email library 
 
-imaplib library uses a special syntax for searching for inbox. 
+Connecting python to gmail with appropriate port and once connceted using email library to search for the particular content. 
 
 
