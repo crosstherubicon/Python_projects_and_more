@@ -25,4 +25,8 @@ Link required to visit: https://support.google.com/accounts/answer/185839
 
 # Receiving emails with Python 
 
-Library used: imaplib 
+Library used: imaplib and email library 
+
+imaplib library uses a special syntax for searching for inbox. 
+
+
