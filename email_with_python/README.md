@@ -1,5 +1,8 @@
 # Sending emails with Python
 
+
+Library used: smtplib
+
 Sending emails with Python, the steps include conneccting to an email server, confirming connection, settinga protocol, loggin on, and sending the message. This could be automated using Python built-in smtplib libray.
 
 
@@ -21,3 +24,5 @@ Link required to visit: https://support.google.com/accounts/answer/185839
 
 
 # Receiving emails with Python 
+
+Library used: imaplib 
