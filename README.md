@@ -1,4 +1,3 @@
-# Games and automations built with Python and python packages.
+# Things to do with Python.
 
 
-Each folder is a different python project from games to automation projects. 
