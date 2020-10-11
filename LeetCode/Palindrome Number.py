@@ -34,3 +34,7 @@ Constraints:
 
 #Solution for Python 3
 
+class Solution:
+    def isPalindrome(self, x):
+        return True if str(x) == str(x)[::-1] else False
+
