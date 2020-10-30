@@ -1,3 +1,1 @@
-# Things to do with Python.
-
-
+# Python programming
