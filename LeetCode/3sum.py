@@ -19,3 +19,26 @@ Input: nums = [0]
 Output: []
  
  '''
+
+def threeSum(self, nums):
+        occur = dict()
+        Sout = set()
+        
+        for x in nums:
+            if x in occur:
+                occur[x] +=1
+            else:
+                occur[x] = 1
+        
+        
+        for i in range(len(nums)):
+            for j in range(len(nums)):
+                third = -nums[i]-nums[j]
+                if  third in occur:
+                    if nums[i] == 0 and nums[j] == 0 and occur[0] < 3: pass
+                    elif nums[i] == nums[j] and occur[nums[i]] < 2: pass
+                    elif nums[i] == third and occur[third] < 2: pass
+                    elif nums[j] == third and occur[third] < 2: pass
+                    else: Sout.add(tuple(sorted([nums[i],nums[j],third])))
+                        
+        return Sout
