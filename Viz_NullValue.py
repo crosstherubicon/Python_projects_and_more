@@ -9,4 +9,4 @@ df.head()
 plt.figure(figsize=(15,8))
 
 sns.heatmap(df.isnull(),yticklabels=False,
-            cbar=False, cmap='viridis') #creating heatmap with nullvalues
+            cbar=False, cmap='viridis') #creating heatmap with nullvalues 
