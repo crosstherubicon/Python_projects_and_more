@@ -3,4 +3,4 @@
 Everything related to python.. 
 
 
-https://plotly.com/python/mixed-subplots/
+Plotly 3D chart: https://plotly.com/python/mixed-subplots/
