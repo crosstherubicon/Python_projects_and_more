@@ -14,3 +14,9 @@ Plotly 3D chart: https://plotly.com/python/mixed-subplots/
 http://examples.holoviews.org/Earthquake_Visualization.html
 
  
+ <a
+                  target="_blank"
+                  className="text-right get-started text-black font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-2 bg-white active:bg-white uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
+                >
+                  Search
+                </a>
